@@ -7,6 +7,7 @@ import GallerySection from '../component/HomeSection/GallerySection'
 import TestimonialsSection from '../component/HomeSection/TestimonialsSection'
 import ContactSection from '../component/HomeSection/ContactSection'
 import Footer from '../component/Header/Footer'
+import LatestNewsAndEvents from '../component/HomeSection/LatestNewsAndEvents '
 
 const Home = () => {
   return (
@@ -15,6 +16,7 @@ const Home = () => {
       <HeroSection />
       <AboutSection />
       <ProgramsSection />
+      <LatestNewsAndEvents />
       <GallerySection />
       <TestimonialsSection />
       <ContactSection />
