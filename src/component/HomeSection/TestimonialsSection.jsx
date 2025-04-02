@@ -193,28 +193,28 @@ const TestimonialsSection = () => {
       name: "Sarah Johnson",
       role: "Parent of Emily, Age 4",
       image: "/images/house.jpg",
-      text: "Little Explorers has been a second home for my daughter. She has flourished socially and academically in ways I couldn't have imagined. The teachers truly care and the curriculum is fantastic!"
+      text: "Canopus International has been a second home for my daughter. She has flourished socially and academically in ways I couldn't have imagined. The teachers truly care and the curriculum is fantastic!"
     },
     {
       id: 2,
       name: "Michael Chen",
       role: "Parent of Twins, Age 3",
       image: "/images/co-ed.jpg",
-      text: "Finding a preschool for twins was challenging until we discovered Little Explorers. They understand each child's unique needs and provide a balanced approach to learning and play. My children love going to school every day!"
+      text: "Finding a preschool for twins was challenging until we discovered Canopus International. They understand each child's unique needs and provide a balanced approach to learning and play. My children love going to school every day!"
     },
     {
       id: 3,
       name: "Amanda Rodriguez",
       role: "Parent of Lucas, Age 5",
       image: "/images/best.jpg",
-      text: "The Pre-K program prepared my son for kindergarten beautifully. He's confident, curious, and has developed such a love for learning. I'm grateful for the foundation Little Explorers has provided."
+      text: "The Pre-K program prepared my son for kindergarten beautifully. He's confident, curious, and has developed such a love for learning. I'm grateful for the foundation Canopus International has provided."
     },
     {
       id: 4,
       name: "David Thompson",
       role: "Parent of Zoe, Age 2",
       image: "/images/dance.jpg",
-      text: "I was nervous about sending my little one to preschool, but the toddler program at Little Explorers made the transition seamless. The gentle approach and attentive staff have made all the difference."
+      text: "I was nervous about sending my little one to preschool, but the toddler program at Canopus International made the transition seamless. The gentle approach and attentive staff have made all the difference."
     }
   ];
   

@@ -250,7 +250,7 @@ const Footer = () => {
                 <span className="text-purple-200"> +91 97262 75412</span>
               </li>
               <li className="flex items-center">
-                <span className="text-purple-200">info@littleexplorers.edu</span>
+                <span className="text-purple-200">info@Canopus.edu</span>
               </li>
             </ul>
             
@@ -259,7 +259,7 @@ const Footer = () => {
         
         {/* Copyright */}
         <div className="border-t border-purple-800 mt-10 pt-6 text-center">
-          <p>© {currentYear} Little Explorers Preschool. All Rights Reserved.</p>
+          <p>© {currentYear} Canopus International. All Rights Reserved.</p>
           <div className="mt-2">
             <a href="#" className="text-purple-200 hover:text-white mx-2 transition duration-300">Privacy Policy</a>
             <span className="text-purple-700">|</span>

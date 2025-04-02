@@ -79,7 +79,7 @@ const AboutSection = () => {
             </h2>
             
             <p className="text-lg text-gray-600 mb-6">
-              Little Explorers Preschool was founded in 2010 with a simple mission: to create a nurturing environment where children can discover, create, and grow at their own pace. We believe that every child is unique and deserves an education that celebrates their individuality.
+              Canopus International was founded in 2010 with a simple mission: to create a nurturing environment where children can discover, create, and grow at their own pace. We believe that every child is unique and deserves an education that celebrates their individuality.
             </p>
             
             <p className="text-lg text-gray-600 mb-8">
